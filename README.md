@@ -1,1 +1,1 @@
-three projects on SQL using the companies data retrieval for information 
+Retrieving data from three different companies to process information using SQL Server. 
